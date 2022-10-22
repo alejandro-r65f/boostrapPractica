@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alejandro-r65f/boostrapPractica/issues"
   },
-  "homepage": "https://github.com/alejandro-r65f/boostrapPractica#readme"
+  "homepage": "https://github.com/alejandro-r65f/boostrapPractica#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
