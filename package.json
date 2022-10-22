@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "practica de bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandro-r65f/boostrapPractica.git"
+  },
+  "author": "Alejandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandro-r65f/boostrapPractica/issues"
+  },
+  "homepage": "https://github.com/alejandro-r65f/boostrapPractica#readme"
+}
